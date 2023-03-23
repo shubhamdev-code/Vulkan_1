@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.33.31629/bin/Hostx64/x64/lib.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/lib.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -51,7 +51,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/prabi/source/repos/Game_02/out/build/x64-debug"
+			"value" : "c:/Users/Shubham/Desktop/Game_02/out/build/linux-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -75,7 +75,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "23"
+			"value" : "20"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -87,7 +87,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "22060601"
+			"value" : "21032501"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -99,7 +99,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -111,7 +111,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cpack.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -123,7 +123,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/ctest.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -135,11 +135,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "STRING",
-			"value" : "cl.exe"
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -247,11 +247,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "STRING",
-			"value" : "cl.exe"
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/prabi/source/repos/Game_02"
+			"value" : "C:/Users/Shubham/Desktop/Game_02"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -739,11 +739,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Install path prefix, prepended onto install directories."
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/prabi/source/repos/Game_02/out/install/x64-debug"
+			"value" : "C:/Program Files (x86)/Game_02"
 		},
 		{
 			"name" : "CMAKE_INSTALL_RUNSTATEDIR",
@@ -823,7 +823,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.33.31629/bin/Hostx64/x64/link.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/link.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -835,7 +835,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1183,7 +1183,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1415,7 +1415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/prabi/source/repos/Game_02/out/build/x64-debug/ext/glfw"
+			"value" : "C:/Users/Shubham/Desktop/Game_02/out/build/linux-debug/ext/glfw"
 		},
 		{
 			"name" : "GLFW_BUILD_DOCS",
@@ -1478,18 +1478,6 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "GLFW_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "OFF"
-		},
-		{
 			"name" : "GLFW_LIBRARY_TYPE",
 			"properties" : 
 			[
@@ -1535,7 +1523,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/prabi/source/repos/Game_02/ext/glfw"
+			"value" : "C:/Users/Shubham/Desktop/Game_02/ext/glfw"
 		},
 		{
 			"name" : "GLFW_USE_HYBRID_HPG",
@@ -1559,19 +1547,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/prabi/source/repos/Game_02/out/build/x64-debug"
-		},
-		{
-			"name" : "Game_02_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
+			"value" : "C:/Users/Shubham/Desktop/Game_02/out/build/linux-debug"
 		},
 		{
 			"name" : "Game_02_SOURCE_DIR",
@@ -1583,7 +1559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/prabi/source/repos/Game_02"
+			"value" : "C:/Users/Shubham/Desktop/Game_02"
 		},
 		{
 			"name" : "USE_MSVC_RUNTIME_LIBRARY_DLL",
@@ -1607,7 +1583,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/prabi/source/repos/Game_02/out/install/x64-debug"
+			"value" : "C:/Program Files (x86)/Game_02"
 		}
 	],
 	"kind" : "cache",

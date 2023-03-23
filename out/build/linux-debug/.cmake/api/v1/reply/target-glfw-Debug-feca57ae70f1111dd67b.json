@@ -152,19 +152,19 @@
 			[
 				{
 					"backtrace" : 8,
-					"path" : "C:/Users/prabi/source/repos/Game_02/inc"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/inc"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/prabi/source/repos/Game_02/ext/glfw/include"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/ext/glfw/include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/prabi/source/repos/Game_02/ext/glfw/src"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/ext/glfw/src"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/prabi/source/repos/Game_02/out/build/x64-debug/ext/glfw/src"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/out/build/linux-debug/ext/glfw/src"
 				}
 			],
 			"language" : "C",
@@ -218,7 +218,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "C:/Users/prabi/source/repos/Game_02/out/install/x64-debug"
+			"path" : "C:/Program Files (x86)/Game_02"
 		}
 	},
 	"name" : "glfw",

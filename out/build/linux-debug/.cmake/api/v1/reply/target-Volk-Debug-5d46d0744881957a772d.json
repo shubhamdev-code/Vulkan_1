@@ -12,7 +12,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "ext/Volk/Volk.lib"
+			"path" : "ext/volk/Volk.lib"
 		}
 	],
 	"backtrace" : 1,
@@ -25,7 +25,7 @@
 		],
 		"files" : 
 		[
-			"ext/Volk/CMakeLists.txt",
+			"ext/volk/CMakeLists.txt",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
@@ -63,7 +63,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/prabi/source/repos/Game_02/inc"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/inc"
 				}
 			],
 			"language" : "C",
@@ -73,13 +73,13 @@
 			]
 		}
 	],
-	"id" : "Volk::@fb7ffb3e1e114a158d58",
+	"id" : "Volk::@cfe05cb32dd412f8c1ba",
 	"name" : "Volk",
 	"nameOnDisk" : "Volk.lib",
 	"paths" : 
 	{
-		"build" : "ext/Volk",
-		"source" : "ext/Volk"
+		"build" : "ext/volk",
+		"source" : "ext/volk"
 	},
 	"sourceGroups" : 
 	[
@@ -103,12 +103,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "ext/Volk/volk.c",
+			"path" : "ext/volk/volk.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "ext/Volk/volk.h",
+			"path" : "ext/volk/volk.h",
 			"sourceGroupIndex" : 1
 		}
 	],

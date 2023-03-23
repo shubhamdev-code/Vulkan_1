@@ -12,7 +12,6 @@
 						5
 					],
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
@@ -28,7 +27,6 @@
 						3
 					],
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-ext-Debug-63b9e8ce5dc84e05b5e9.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
@@ -38,15 +36,14 @@
 					"source" : "ext"
 				},
 				{
-					"build" : "ext/Volk",
-					"jsonFile" : "directory-ext.Volk-Debug-167ae715349237639bb6.json",
+					"build" : "ext/volk",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
 					},
 					"parentIndex" : 1,
 					"projectIndex" : 0,
-					"source" : "ext/Volk",
+					"source" : "ext/volk",
 					"targetIndexes" : 
 					[
 						1
@@ -59,7 +56,6 @@
 						4
 					],
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-ext.glfw-Debug-85a6e5788ad9ac31eb3c.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.4"
@@ -75,7 +71,6 @@
 				{
 					"build" : "ext/glfw/src",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-ext.glfw.src-Debug-61c834ce8b42b3340dc1.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.4"
@@ -91,7 +86,6 @@
 				},
 				{
 					"build" : "Game_02",
-					"jsonFile" : "directory-Game_02-Debug-663bb0616fb14614df3c.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
@@ -148,35 +142,35 @@
 				{
 					"directoryIndex" : 5,
 					"id" : "Game_02::@0051744a94a8943e43ac",
-					"jsonFile" : "target-Game_02-Debug-de3b3eaca08caa39a9bb.json",
+					"jsonFile" : "target-Game_02-Debug-b5ecaec819f9e57aae4c.json",
 					"name" : "Game_02",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "Volk::@fb7ffb3e1e114a158d58",
-					"jsonFile" : "target-Volk-Debug-a69c29486a77bc489525.json",
+					"id" : "Volk::@cfe05cb32dd412f8c1ba",
+					"jsonFile" : "target-Volk-Debug-5d46d0744881957a772d.json",
 					"name" : "Volk",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "glfw::@f6f7721c76705297a9b5",
-					"jsonFile" : "target-glfw-Debug-5fc385b86945055a094d.json",
+					"jsonFile" : "target-glfw-Debug-feca57ae70f1111dd67b.json",
 					"name" : "glfw",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "uninstall::@5c095e04c8d0b36bd90a",
-					"jsonFile" : "target-uninstall-Debug-b52ce6f42d734739a669.json",
+					"jsonFile" : "target-uninstall-Debug-5529a787ab669a405ba4.json",
 					"name" : "uninstall",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "update_mappings::@f6f7721c76705297a9b5",
-					"jsonFile" : "target-update_mappings-Debug-b2565c23d2a8e4e4b8eb.json",
+					"jsonFile" : "target-update_mappings-Debug-64934d00d3c7e134c748.json",
 					"name" : "update_mappings",
 					"projectIndex" : 1
 				}
@@ -186,12 +180,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/prabi/source/repos/Game_02/out/build/x64-debug",
-		"source" : "C:/Users/prabi/source/repos/Game_02"
+		"build" : "C:/Users/Shubham/Desktop/Game_02/out/build/linux-debug",
+		"source" : "C:/Users/Shubham/Desktop/Game_02"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 2
 	}
 }

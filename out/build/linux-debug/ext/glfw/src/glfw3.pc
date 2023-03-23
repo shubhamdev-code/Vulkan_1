@@ -1,7 +1,7 @@
-prefix=C:/Users/prabi/source/repos/Game_02/out/install/x64-debug
+prefix=C:/Program Files (x86)/Game_02
 exec_prefix=${prefix}
-includedir=C:/Users/prabi/source/repos/Game_02/out/install/x64-debug/include
-libdir=C:/Users/prabi/source/repos/Game_02/out/install/x64-debug/lib
+includedir=C:/Program Files (x86)/Game_02/include
+libdir=C:/Program Files (x86)/Game_02/lib
 
 Name: GLFW
 Description: A multi-platform library for OpenGL, window and input

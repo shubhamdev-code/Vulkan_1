@@ -86,7 +86,7 @@
 					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1"
 				},
 				{
-					"fragment" : "-std:c++20"
+					"fragment" : "-std:c++latest"
 				}
 			],
 			"defines" : 
@@ -100,15 +100,15 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/prabi/source/repos/Game_02/inc"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/prabi/source/repos/Game_02/Game_02/../ext/Volk"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/Game_02/../ext/Volk"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/prabi/source/repos/Game_02/ext/glfw/include"
+					"path" : "C:/Users/Shubham/Desktop/Game_02/ext/glfw/include"
 				}
 			],
 			"language" : "CXX",
@@ -131,7 +131,7 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "Volk::@fb7ffb3e1e114a158d58"
+			"id" : "Volk::@cfe05cb32dd412f8c1ba"
 		},
 		{
 			"backtrace" : 3,
@@ -153,12 +153,12 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "ext\\Volk\\Volk.lib",
+				"fragment" : "..\\ext\\volk\\Volk.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "ext\\glfw\\src\\glfw3.lib",
+				"fragment" : "..\\ext\\glfw\\src\\glfw3.lib",
 				"role" : "libraries"
 			},
 			{
